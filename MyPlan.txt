@@ -1,0 +1,16 @@
+So, at 9 Oct, 10:14 PM (Jakarta) I want to declare to learn as much as i can before 10 November, which is when the GEMASTIK being held.
+
+For (Saturday, Sunday (post NPC)) I want to learn and finish off all things in Silver
+Priorities
+- Graph Transversal and Flood Fill (its half done)
+- BITWISE (topic that i've been avoid since highschool XD) 
+- Intro to Funct Graph
+
+Optional (if i have finished all star problem in previous topics)
+- Intro to Tree (i think it just definition or implementation, nothings new maybe?)
+- Priority Queues (something that i read and solve to determine when i could use this)
+
+Game Plan :
+Read, Think, Solve
+If i think and do many observation and still miss, read solution, understand the solution, implement until it accepted
+Write down things that happening in my brain while solving the problem
