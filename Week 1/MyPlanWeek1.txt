@@ -1,1 +1,14 @@
+So, today is 12 October.
+And I want to learn mostly in Data Structure and Graph Things.
+Why? cause i need a strong understanding and wide knowledge about this topics (and this weeks is mostly empty from activities)
 
+This week goals : 
+Graph Transversal & Flood Fill (same thing but different media)
+Introduction to Tree and Function Graph (different graph structure)
+Shortest Path with Unweighted & Non-Negative Weight Edges (bfs and friends)
+Disjoint Set Union
+Segment Tree
+
+Optional :
+Topological Sort
+Intro to Bitwise Operator
