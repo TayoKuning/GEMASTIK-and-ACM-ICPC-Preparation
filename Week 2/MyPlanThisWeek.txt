@@ -1,0 +1,8 @@
+Today is 20 October and its H-5 from Indonesia National Competition (INC), Tbh i don't if i prepared enough to get TOP 40 to pass into ICPC Asia-Jakarta but I hope I got TOP 40.
+
+For This Week Preparation, I want to continue things that was undone from last week target :
+Shortest Path with Unweighted & Non-Negative Weight Edges (bfs and friends)
+Disjoint Set Union
+Segment Tree
+
+I SHOULD FINISH THIS COURSE BEFORE INC
